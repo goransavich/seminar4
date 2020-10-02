@@ -1,2 +1,2 @@
 # seminar4
-Algorithm for Seminar 4
+Algorithms for Seminar 4
